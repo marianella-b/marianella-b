@@ -6,8 +6,8 @@
 **Навыки и инструменты:**    
   * **Python:** Pandas, Numpy,  SciPy, Matplotlib, Seaborn, Plotly, Folium 
   * **Databases:** SQL, PostgreSQL
-  * **BI analytics:** Tableau Public
-  * Unit-экономика, Когортный анализ,  А/B тесты, ABC-анализ
+  * **BI analytics:** Tableau Public, DataLens
+  * Unit-экономика, Когортный анализ,  А/B тесты, ABC-анализ, RFM-анализ
     
 [Портфолио работ](https://github.com/marianella-b/Portfolio)
   
